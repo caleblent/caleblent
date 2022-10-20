@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caleblent
-- 👀 I’m interested in building web apps, websites, and neat tools
-- 🌱 I’m currently learning back end web development
-- 💞️ I’m looking to collaborate on anything that piques my interest
+- 👀 I’m interested in web3 development and secuity
+- 🌱 I’m currently learning web3 secuity via audit contests and bug bounties
+- 💞️ 
 - 📫 How to reach me: caleb@stcroixwebagency.com
 
 <!---
