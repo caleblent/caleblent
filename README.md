@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caleblent
-- 👀 I’m interested in web3 development and secuity
+- 👀 I’m interested in web3 development and security
 - 🌱 I’m currently learning web3 secuity via audit contests and bug bounties
 - 💞️ 
 - 📫 How to reach me: caleb@stcroixwebagency.com
